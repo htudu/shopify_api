@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "copper-site-284211",
+  "private_key_id": "750820c6225e75b9b6f929bcf71dd8394ed2caf3",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDJ+S7MzARJz+FN\noNTym3LL5XPxBoi5JiX9pafcN+asWyr3bOmEk3WX4xM61qvlykK193jy257kXdjF\nRBKhx52U4y6dMhpUREMultYKZ4Ub/0angnyc9yi4gJ/3O263JD45Z1YxBLtCmiBd\njSFOER7Mu7NwaxOYqBHGKePY7kn5ffXtYupxzDVn82F7SL9RdheYIug4KSIuJjWe\nzZWnKNWWU8RdykksIvB7SJvHNyj0dBLuNUmbWJmas24BQM1TorTFvtLpsZDryTkp\nxuB+KcV6F7akrP1eP0xwa/MjvvS0Fa80jCi4agUGlqtBNVY3XEKVk+ckt7y64E03\nmtRQ9NzTAgMBAAECggEABN7uCoFXDyKkx9b7m7g0/gbUE3l5XaG2Y9YVZMGyXfC6\n6gml3g0iVl3jDlW0ApAsqK/FqnGydMZwnl1EZ8NlIPyTmLXnHaYhyqNXmRujAahX\n311NvQlW4ZA0i2VTB7ani4Ha+can73TBGBB5v6S5De3u52SlrdZLy3AiLw6cGRiu\nCGrKgt2HcC6k5oOHbmI+29oO3ODKSsWvfihRLR2nBA9PWBiSoGO+wZ6kJg8ngJS0\nx6IUbBI+7CefaOEKMR48WnoX2Un+ipw9gSGwOWe9KHNSo/3upaNEkxAnwKh05tql\nOfT6vfpU23gK+mBnSHHoCXG6zP9JgFpoP0vZoX1WvQKBgQD9AIqXWiu7pVG0V/ur\n+YiHqMKnOAEvqeNX6mepEa5Nh0hqoXxDNQN7isdfcGibsbB8F4pATzUvN+Snh+Pd\n9KKCe8UFZjcoBpAfPF/Prb8Ty9xBzVZMctTeqb/fp69TiURcV2YjKbmMheXrn722\nZtxrgslu4O3WXMS6eyg4vqiVpwKBgQDMXdm2hN8w/+zmXsHJapt7rCuT3FXCKEN4\nk8qJd3XQGlRqmJpbp9t8K1Fo7jQZfgNEgDJbUBRaXdw1bQ+pdCZtS0e9lAZh/pt7\nYCFHOOVhEV0NIHVIHG06nqCbFk61cdXtSh+sJ5S4B2NVY4gJ7piLSzIX7zlWl8kH\n+O3hu3G89QKBgGI/lZJU9+q0tlfcWuVbz8Muq/iX7Q3/YUPAyWSEczW0NVEDSOgo\nbCPLrsTHODhN9oUZ9xwmJjch82+De9+zonAddFM2cHDgq5MVtPdHN46Oeggrnzms\n1jFpphNKYPGFusBJSGabS2zginrH27o7k5lEfsjKHFJEUDlCnkn68Ci9AoGBAMFW\nSBETwtJoS4XlPw99e3qUduV7HOaBkNMRfhpumVY2koYFuIHdWxctI+dQ8pjrTcwQ\nO5OHPrn+8cTZWGfHKlNbVJNU5nTumckuOE1Y1ifudUll245M1kkOqIIPqIafGvNR\nnIURLPCsjJzLfHdo8YdVrB5YgrYZAmY4aVOUMRXBAoGAO5XQHT62v/0Yyu4meGID\nQv2rBZLy4FV7onfz6p+kkOk6ht18PuwVnjOmoFYYgX+NWVwBXvEZqGx/Py46nG8O\nf0gOOKJjqZyBoH3zjcD5Q1kT2E9cDrGRuhXK4uJlBbyX9E35j3LpW0qmakEz2Gzb\nzzhbmoBS92siciH20coG+sk=\n-----END PRIVATE KEY-----\n",
+  "client_email": "anj-singh@copper-site-284211.iam.gserviceaccount.com",
+  "client_id": "113693335828455499368",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/anj-singh%40copper-site-284211.iam.gserviceaccount.com"
+}
